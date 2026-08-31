@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 6 |
+| 11 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (5)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -27,6 +27,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1789A | [Serval and Mocha's Array](https://codeforces.com/contest/1789/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/1789/A%20-%20Serval%20and%20Mocha's%20Array/solution.cpp) |
 
@@ -41,6 +42,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
@@ -66,6 +68,7 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 
 ---
 
