@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 7 |
+| 16 | 7 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (7)
 - [games](#games) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (7)
 - [math](#math) (6)
 - [number theory](#number-theory) (2)
@@ -45,6 +45,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/AnjneyRai/Codeforces-Submissions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ### implementation
 
