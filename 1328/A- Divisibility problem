@@ -1,0 +1,28 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int t;
+    cin >> t;
+
+    for(int i = 0; i < t; i++)
+    {
+        int a, b, r, ans;
+        cin >> a >> b;
+
+        r = a % b;
+
+        if(r == 0)
+        {
+            cout << 0 << '\n';
+        }
+        else
+        {
+            ans = b - r;
+            cout << ans << '\n';
+        }
+    }
+
+    return 0;
+}
