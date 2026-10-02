@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int k, r;
+    cin >> k >> r;
+    
+    // Check every possible number of shovels from 1 to 10
+    for (int i = 1; i <= 10; i++) {
+        int total_price = k * i;
+        if (total_price % 10 == 0 || total_price % 10 == r) {
+            cout << i << "\n";
+            break;
+        }
+    }
+    return 0;
+}
